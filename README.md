@@ -1,2 +1,3 @@
-# whats-your-name
-http://bit.ly/2NRlZtG
+$ ./hello
+What is your name? Andreea
+hello, Andreea
